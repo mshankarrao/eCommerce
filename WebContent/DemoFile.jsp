@@ -44,17 +44,6 @@
         Radio D <input id="button4" type="radio" name="button" value=""/>
 
         <div id="content"></div>
-        <!-- <script type="text/javascript" src="js/libs/jquery/jquery.js"></script>
-        <script type="text/javascript" src="js/ajax.js"></script>
- -->
+  
     </body>
-</html>
-     <!-- <input type="radio" name="group" id="link1">abc<font face="sans-serif"><b>
-        <div id="layer5" class="style2" style="position: absolute; width: 79px; height: 17px; z-index: 1; left: 11px; top: 15px"><a href="login.jsp" class="link1">item 1</a></div> 
-        <div id="result" style="position: absolute; width: 988px; height: 649px; z-index: 2; left: 193px; top: 4px"></div> 
-       <input type="radio" id="launch-page1" class="page-launcher" />
-<input type="radio" id="launch-page2" class="page-launcher" />
-<div id="hold-page1"></div>
-<div id="hold-page2"></div>
-    </body> -->
 </html>
