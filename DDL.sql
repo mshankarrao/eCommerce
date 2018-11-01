@@ -33,7 +33,7 @@ CREATE TABLE `category` (
   `productName` VARCHAR(45) NOT NULL,
   `categoryName` VARCHAR(45) NOT NULL,
   `productAvailability` VARCHAR(45) NULL,
-  `productQuantity` INT NULL DEFAULT 'yes',
+  `productQuantity` INT NULL,
   `productPrice` INT NULL,
   `supplierId` INT NULL,
   PRIMARY KEY (`productId`),
